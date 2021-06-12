@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "285484967761",
+    "firebase_url": "https://bhavnish-791eb.firebaseio.com",
+    "project_id": "bhavnish-791eb",
+    "storage_bucket": "bhavnish-791eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285484967761:android:fb847cf20cd30fca",
+        "android_client_info": {
+          "package_name": "com.bhavnish.firebaseauthdemoregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285484967761-bk6vljo311onl0utgb9jjtk6gvnt1ji0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "285484967761-bk6vljo311onl0utgb9jjtk6gvnt1ji0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALzJzfrHCFnrfOclDKteuvQvQNAYOBR6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285484967761-bk6vljo311onl0utgb9jjtk6gvnt1ji0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
